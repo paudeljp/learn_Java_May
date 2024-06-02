@@ -1,4 +1,4 @@
-public class nestedLoop_printPatternHalfPiramid_03 {
+public class nestedLoop_printPattern_HalfPiramid_03 {
     public static void main(String[] args) {
         for (int i = 1; i <= 10; i++) {
             for (int j = 1; j <= i; j++) {
