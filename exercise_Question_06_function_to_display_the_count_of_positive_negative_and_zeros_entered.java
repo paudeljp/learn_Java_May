@@ -32,5 +32,4 @@ public class exercise_Question_06_function_to_display_the_count_of_positive_nega
             sc.close();
         }
     }
-
 }
