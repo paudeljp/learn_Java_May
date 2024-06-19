@@ -1,6 +1,7 @@
+//Take an array as input from the user. Search for a given number x and print the index at which it occurs.
 import java.util.*;
 
-public class array_o5_Search_for_ {
+public class array_o4_Finding_the_index_of_array {
 
    public static void main(String[] args) {
 
@@ -28,3 +29,5 @@ public class array_o5_Search_for_ {
       }
    }
 }
+//This techniques is called linior search in computer
+Take an array of names as input from the user and print them on the screen.
