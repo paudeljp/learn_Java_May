@@ -30,4 +30,3 @@ public class array_o4_Finding_the_index_of_array {
    }
 }
 //This techniques is called linior search in computer
-Take an array of names as input from the user and print them on the screen.

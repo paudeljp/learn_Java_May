@@ -20,5 +20,4 @@ public class array_o6_Find_the_maximum_minimum_number_in_an_array_of_integers {
         System.out.print("The smallest number is: "+min);
     }
 }
-
-Ask numbers from the user and find the maximum & minimum number in an array of integers. 
+ 
