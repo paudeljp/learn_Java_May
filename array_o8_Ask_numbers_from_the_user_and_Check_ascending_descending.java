@@ -26,16 +26,16 @@ public class array_o8_Ask_numbers_from_the_user_and_Check_ascending_descending {
         }
 
         // Check if the array is in ascending order
-        boolean isAscending = true;     // Assume the array is sorted
+        boolean isAscending = true; // Assume the array is sorted
 
-        for (int i = 0; i < array.length - 1; i++) {       // Loop through the array
-            if (array[i] > array[i + 1]) {      // Compare each element with the next one
-                isAscending = false;    // If current element is greater, set isAscending to false
+        for (int i = 0; i < array.length - 1; i++) { // Loop through the array
+            if (array[i] > array[i + 1]) { // Compare each element with the next one
+                isAscending = false; // If current element is greater, set isAscending to false
             }
-            break;  // Exit the loop early
+            break; // Exit the loop early
 
         }
-         // Output the result
+        // Output the result
         if (isAscending) {
             System.out.print("This is ascending");
         } else {
